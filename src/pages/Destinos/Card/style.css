@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    gap: 10px;
+}
+.card{
+    width: 200px;
+    height: 450px;
+}
+
+.card-body{
+    font-size: 12px;
+    line-height: 1;
+}

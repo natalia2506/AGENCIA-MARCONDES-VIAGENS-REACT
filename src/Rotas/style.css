@@ -1,0 +1,22 @@
+.navbar{
+    background-color:#c1d4fd;
+}
+.imgMenu{
+    width:100px;
+    height:80px
+}
+
+.btn{
+    background-color: #000080;
+    margin-right: 60px;
+    margin-top: 10px;
+    width: 80px;
+    height: 30px;
+    font-size: 10px;
+    border: none;
+    border-radius: 05px;
+}
+
+.link{
+    color: white;
+}
